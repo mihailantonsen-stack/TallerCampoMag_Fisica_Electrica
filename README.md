@@ -1,2 +1,2 @@
 # TallerCampoMag_Fisica_Electrica
-Taller de Campos magnéticos -MARIA CASTILLO EDUARDO QUIARO
+Taller de Campos magnéticos -MARIA CASTILLO & EDUARDO QUIARO
